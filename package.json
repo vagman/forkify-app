@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "core-js": "^3.42.0",
+    "core-js": "^3.44.0",
     "sass": "^1.69.5",
     "vite": "^6.3.5"
   },
